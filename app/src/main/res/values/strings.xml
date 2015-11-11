@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">CocktailSocity</string>
     <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="search_fragment">Search fragment</string>
+    <string name="Favourite_fragment">Favourite fragment</string>
+    <string name="top_rated_fragment">Top Rated fragment</string>
+    <string name="title_activity_home">Home</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
 </resources>
